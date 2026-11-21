@@ -6,7 +6,5 @@ This is for **ARCHIVAL PURPOSES ONLY**
 
 # Archived Software List
 >Ripit 1.6.9
->Ripit 1.6.8
-
 
 Repo by Idoz61
